@@ -1,2 +1,2 @@
-# Hilos
-Juego de caballos utilizando hilos (subprocesos).
+# Hilos.
+* Juego de caballos utilizando hilos (subprocesos).
