@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shortest Job First", "Shortest Job First\Shortest Job First.csproj", "{7542364C-290B-47FB-982B-284456CA66DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7542364C-290B-47FB-982B-284456CA66DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7542364C-290B-47FB-982B-284456CA66DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7542364C-290B-47FB-982B-284456CA66DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7542364C-290B-47FB-982B-284456CA66DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
